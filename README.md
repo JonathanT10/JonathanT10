@@ -7,6 +7,8 @@
 - 💬 Ask me about React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-terrell/)
 
+![Ninja Turtles](https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc/tile)
+
 
 <!--
 **JonathanT10/JonathanT10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
