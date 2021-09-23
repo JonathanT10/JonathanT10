@@ -7,7 +7,7 @@
 - 💬 Ask me about React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-terrell/)
 
-![Ninja Turtles](https://giphy.com/embed/cFdHXXm5GhJsc)
+![Ninja Turtles](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47b8zt7xy1dbcxwxu0b21vrfbhp2qy2d5tji6exmw1&rid=giphy.gif&ct=g)
 
 
 <!--
