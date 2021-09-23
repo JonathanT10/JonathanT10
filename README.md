@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-terrell/)
 
 ### Technologies
-[HTML5](https://www.flaticon.com/)
+![HTML5](https://www.flaticon.com/)
 
 
 <!--
