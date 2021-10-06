@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a e-commerce application, and my portfolio
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with C# and Python
 - 💬 Ask me about React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-terrell/)
 
