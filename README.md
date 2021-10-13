@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a e-commerce application, and my portfolio
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# 
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-terrell/)
